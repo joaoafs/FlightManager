@@ -6,10 +6,15 @@
 
 ###### Program Execution
 
-The program must run as follows:
+How to compile: 
 
 ```
-     $ ./proj2 < test.in > test.myout
+     gcc -Wall -Wextra -Werror -ansi -pedantic -o proj *.c
+```
+How to run: 
+
+```
+     ./proj < test.in > test.myout
 ```
 
 Later you can compare your output (`*.myout`) with the predicted output (`*.out`) using the `diff` command,
