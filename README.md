@@ -1,8 +1,9 @@
 # Flight Manager
-#### @IST - IAED Project 2021
+#### @IST - IAED Project 2021 (Part 1 + Part 2)
 
 > The intention is to build a flight management system between airports. To do so, your system must allow the definition of of airports and flights, as well as your query. You can read all about the project [here](https://github.com/joaoafs/FlightManager/blob/main/Statement.md).
 
+<sub>*The code for the first part of the project was provided by the teacher, it was then changed and used by me. The second part of the project and its respective functions were entirely made by me.*</sub>
 
 ###### Program Execution
 
