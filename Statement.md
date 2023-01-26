@@ -183,21 +183,3 @@ __Só poderá usar as funções de biblioteca definidas em `stdio.h`,
 
 *Nota importante*: não é permitida a utilização da função `qsort` nativa do C e este *nome* não deve aparecer no vosso código.
 
-O compilador a utilizar é o `gcc` com as seguintes opções de compilação:
-`-Wall -Wextra -Werror -ansi -pedantic`. Para compilar o programa deve
-executar o seguinte comando:
-
-```
-    $ gcc -Wall -Wextra -Werror -ansi -pedantic -o proj1 *.c
-```
-
-O programa deverá escrever no *standard output* as respostas aos comandos
-apresentados no *standard input*. As respostas são igualmente linhas de
-texto formatadas conforme definido anteriormente neste enunciado.
-Tenha em atenção ao número de espaços entre elementos do seu output,
-assim como a ausência de espaços no final de cada linha. Procure respeitar
-escrupulosamente as indicações dadas.
-
-
-
-
