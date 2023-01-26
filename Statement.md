@@ -1,4 +1,4 @@
-# Enunciado do Projecto 2 - IAED 2021/2022
+# Enunciado do Projecto 1+2 - IAED 2021/2022
 
 ## Introdução
 
